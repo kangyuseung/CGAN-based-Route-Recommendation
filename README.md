@@ -9,6 +9,6 @@ In this study, we propose a route recommendation model using a Conditional Gener
 - tensorflow > 2.11.0
 - Pandas
 - Numpy
-- 
+  
 # Framework
 ![figure](https://github.com/kangyuseung/CGAN-based-Route-Recommendation/assets/155530934/6ee748f6-f03f-4cc2-bd1b-b5da56fcd4ad)
